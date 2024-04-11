@@ -1,0 +1,3 @@
+﻿  t1.cpp
+C:\Users\qw899\source\repos\t1\t1\t1.cpp(14,20): warning C4554: “>>”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+  t1.vcxproj -> C:\Users\qw899\source\repos\t1\x64\Debug\t1.exe
